@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Pymaceuticals Drug Analysis
 Completed by Daniel Stephens
 
 ## About this project
